@@ -1,6 +1,6 @@
 ## 📕 Vowels Counter
 
-Este é um desafio encontrado através do `instagram` da 'OneBitCode' e aqui está a forma que encontrei para sua solução com TypeScript, e sem ignorar vogais com acentos.
+Este é um desafio encontrado através do `instagram` da 'OneBitCode' para JavaScript e aqui está a forma que encontrei de uma solução com TypeScript, e sem ignorar vogais com acentos.
 
 ## 💻 Linguagens utilizadas
 
